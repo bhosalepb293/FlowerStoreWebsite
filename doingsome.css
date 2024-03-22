@@ -1,0 +1,40 @@
+body{
+ background-image: url("home-bg.png");
+}
+
+.abc{
+
+color:yellowgreen;
+ background-color:#dddd;
+padding:2px;
+border-radius:8px;
+}
+
+
+.xyz{
+margin-left:20%;
+margin-top:0px;
+display: block;
+  text-align: center;
+  padding: 14px 16px;
+font-size:22px;
+}
+
+.content
+{
+margin-right:35%;
+margin-top:10%;
+}
+
+.btn{
+padding : 15px 20px;
+margin-left:5px;
+border-radius:5px;
+background-color:#e6c6d7;
+}
+
+.lc{
+margin-right:220px;
+}
+
+
